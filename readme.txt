@@ -157,14 +157,15 @@ That's it!
 
 == Screenshots ==
 
-1. WP Widget Bundle admin screen.
-2. Appearence widget menu screen.
-3. Category Widget display on the frontside of Wordpress.
-4. Post Widget display on the frontside of Wordpress.
-5. Image Widget display on the frontside of Wordpress.
-6. Text Widget display on the frontside of Wordpress.
-7. Comments Widget display on the frontside of Wordpress.
-8. Link Widget display on the frontside of Wordpress.
-9. Tweets Widget display on the frontside of Wordpress.
-10. Login Widget display on the frontside of Wordpress.
-11. Register Widget display on the frontside of Wordpress.
+1. WP Widget Bundle Login sidebar screen.
+2. Link Widget display on the frontside of Wordpress.
+3. Image Widget display on the frontside of Wordpress.
+4. Text Widget display on the frontside of Wordpress.
+5. Category Widget display on the frontside of Wordpress.
+6. Comments Widget display on the frontside of Wordpress.
+7. Post Widget display on the frontside of Wordpress.
+8. Login Widget display on the frontside of Wordpress.
+9. Register Widget display on the frontside of Wordpress.
+10. Tweets Widget display on the frontside of Wordpress.
+11. Appearence widget menu screen.
+12. WP Widget Bundle admin screen.
