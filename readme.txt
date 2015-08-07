@@ -175,18 +175,18 @@ That's it!
 
 == Screenshots ==
 
-1. WP Widget Bundle Login sidebar screen.
-2. Link Widget display on the frontside of Wordpress.
-3. Image Widget display on the frontside of Wordpress.
-4. Text Widget display on the frontside of Wordpress.
-5. Category Widget display on the frontside of Wordpress.
-6. Comments Widget display on the frontside of Wordpress.
-7. Post Widget display on the frontside of Wordpress.
-8. Login Widget display on the frontside of Wordpress.
-9. Register Widget display on the frontside of Wordpress.
-10. Tweets Widget display on the frontside of Wordpress.
+1. After login sidebar screen.
+2. Link widget display on the frontside of wordpress.
+3. Image widget display on the frontside of wordpress.
+4. Text widget display on the frontside of wordpress.
+5. Category widget display on the frontside of wordpress.
+6. Comments widget display on the frontside of wordpress.
+7. Post widget display on the frontside of wordpress.
+8. Login widget display on the frontside of wordpress.
+9. Register widget display on the frontside of wordpress.
+10. Tweets widget display on the frontside of wordpress.
 11. Appearence widget menu screen.
-12. WP Widget Bundle admin screen.
+12. Plugin admin screen.
 
 
 == Changelog ==
