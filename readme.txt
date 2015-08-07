@@ -175,7 +175,7 @@ That's it!
 
 == Screenshots ==
 
-1. After login sidebar screen.
+1. After logged-in sidebar widget display user profile.
 2. Link widget display on the frontside of wordpress.
 3. Image widget display on the frontside of wordpress.
 4. Text widget display on the frontside of wordpress.
