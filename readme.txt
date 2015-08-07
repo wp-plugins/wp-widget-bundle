@@ -10,8 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-0.html
 
 A highly customizable widgets that displays the Categories, Posts, Images with slider, Text, Links, Comments on your sidebar.
 
-
-Category Widgets
+<p><strong>Category Widgets</strong></p>
 
 <ol>
 <li> Through this plugin user can, Add the specific category or taxonomy to display in sidebar.</li>
@@ -26,7 +25,7 @@ Category Widgets
 <li> Able to display categories as selected order asc,desc.</li>
 </ol>
 
-Post Widgets
+<p><strong>Post Widgets</strong></p>
 
 <ol>
 <li> Through this plugin user can, Add the specific posts to display in sidebar.</li>
@@ -48,7 +47,7 @@ Post Widgets
 <li> Able to display posts as selected order asc,desc.</li>
 </ol>
 
-Image Widgets
+<p><strong>Image Widgets</strong></p>
 
 <ol>
 <li> Through this plugin user can, create own image widget to display in sidebar.</li>
@@ -60,7 +59,7 @@ Image Widgets
 <li> Able to select image target(open in same or another window).</li>
 </ol>
 
-Text Widgets
+<p><strong>Text Widgets</strong></p>
 
 <ol>
 <li> Through this plugin user can, add text to display widget in sidebar.</li>
@@ -68,7 +67,7 @@ Text Widgets
 <li> Wordpress editor is used.</li>
 </ol>
 
-Link Widgets
+<p><strong>Link Widgets</strong></p>
 
 <ol>
 <li> Able to display links which you select link category.</li>
@@ -80,7 +79,7 @@ Link Widgets
 <li> Able to set limit of links for display.</li>	
 </ol>
 
-Comment Widgets
+<p><strong>Comment Widgets</strong></p>
 
 <ol>
 <li> Through this plugin user can display comments in sidebar.</li>
@@ -93,7 +92,7 @@ Comment Widgets
 <li> Able to set limit of comments for display.</li>
 </ol>
 
-Tweet Widgets
+<p><strong>Tweet Widgets</strong></p>
 
 <ol>
 <li> Add Consumer Key.</li>
@@ -106,7 +105,7 @@ Tweet Widgets
 <li> Able to Exclude Replies.</li>
 </ol>
 
-Login Widgets
+<p><strong>Login Widgets</strong></p>
 
 <ol>
 <li> Able to hide First Name.</li>
@@ -116,7 +115,7 @@ Login Widgets
 <li>: Able to hide About/Info.</li>
 </ol>
 
-Register Widgets
+<p><strong>Register Widgets</strong></p>
 
 <ol>
 <li> Able to hide Lost Password Link.</li>
@@ -128,7 +127,7 @@ Register Widgets
 <li> Able to set Logout Redirect URL.</li>
 </ol>
 
-Widgets View Settings For Frontend
+<p><strong>Widgets View Settings For Frontend</strong></p>
 
 <ol>
 <li> Able to change Title Font Color.</li>
@@ -138,7 +137,7 @@ Widgets View Settings For Frontend
 <li> Able to change Title Font Size.</li>
 </ol>
 
-Carousel Slider Settings For Image Widget
+<p><strong>Carousel Slider Settings For Image Widget</strong></p>
 
 <ol>
 <li> Able to set Slide Speed.</li>
