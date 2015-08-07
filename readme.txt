@@ -112,7 +112,7 @@ A highly customizable widgets that displays the Categories, Posts, Images with s
 <li> Able to hide Last Name.</li>
 <li> Able to hide Nick Name.</li>
 <li> Able to hide Website.</li>
-<li>: Able to hide About/Info.</li>
+<li> Able to hide About/Info.</li>
 </ol>
 
 <p><strong>Register Widgets</strong></p>
