@@ -154,7 +154,7 @@ A highly customizable widgets that displays the Categories, Posts, Images with s
 <li> Able to set Auto Height.</li>
 </ol>
 
-= Notices =
+<p><strong>Notices</strong></p>
 
 ** WP widget bundle ** is now also on [GitHub](https://github.com/devnathverma/wp-widget-bundle)!
 	
@@ -169,6 +169,8 @@ A highly customizable widgets that displays the Categories, Posts, Images with s
 5. In your admin console, go to Appearance > Widgets, drag the "WP Category Widget", "WP Post Widget", "WP Image Widget", "WP Text Widget", "WP Link Widget", "WP Comment Widget", "WP Tweet Widget", "WP Login Registration Widget" to wherever you want it to be and click on Save.
 
 That's it!
+
+== Frequently Asked Questions ==
 
 
 == Screenshots ==
@@ -185,3 +187,6 @@ That's it!
 10. Tweets Widget display on the frontside of Wordpress.
 11. Appearence widget menu screen.
 12. WP Widget Bundle admin screen.
+
+
+== Changelog ==
