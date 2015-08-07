@@ -7,7 +7,7 @@
 /*
 Plugin Name: WP Widget Bundle
 Plugin URI: https://github.com/devnathverma/wp-widget-bundle/
-Description: WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login and Register is a highly customizable widget that displays the categories, posts, images with slider, text, links, comments on your sidebar.
+Description: A highly customizable widgets that displays the Categories, Posts, Images with slider, Text, Links, Comments on your sidebar.
 Author: Devnath verma
 Author Email: devnathverma@gmail.com
 Version: 1.0.0

@@ -1,10 +1,10 @@
 === WP Widget Bundle ===
 Contributors: Devnath verma
 Tags : widgets, wp widgets, wp widget bundle, wordpress widget bundle, widget bundle, widgets, category widget, post widget, image widget, text widget, link widget, comment widget, tweet widget, login widget, register widget, slider image widget.
-Requires at least : 3.1
-Tested up to : 4.2.2
+Requires at least : 1
+Tested up to : 2
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl-0.html
 
 == Description ==
 
@@ -14,145 +14,145 @@ A highly customizable widgets that displays the Categories, Posts, Images with s
 Category Widgets
 
 <ol>
-<li>1. Through this plugin user can, Add the specific category or taxonomy to display in sidebar.</li>
-<li>2. Able to display category which you select taxonomy.</li>
-<li>3. Able to display categories as dropdown.</li>
-<li>4. Able to display categories as hierarchy.</li>
-<li>5. Able to display categories posts counts.</li>
-<li>6. Able to include or exclude categories by category ids.</li>
-<li>7. Able to set limit of categories for display.</li>
-<li>8. Able to display categories disc, circle, square, etc....</li>
-<li>9. Able to display categories as selected order by name,id,etc....</li>
-<li>10. Able to display categories as selected order asc,desc.</li>
+<li> Through this plugin user can, Add the specific category or taxonomy to display in sidebar.</li>
+<li> Able to display category which you select taxonomy.</li>
+<li> Able to display categories as dropdown.</li>
+<li> Able to display categories as hierarchy.</li>
+<li> Able to display categories posts counts.</li>
+<li> Able to include or exclude categories by category ids.</li>
+<li> Able to set limit of categories for display.</li>
+<li> Able to display categories disc, circle, square, etc....</li>
+<li> Able to display categories as selected order by name,id,etc....</li>
+<li> Able to display categories as selected order asc,desc.</li>
 </ol>
 
 Post Widgets
 
 <ol>
-<li>1: Through this plugin user can, Add the specific posts to display in sidebar.</li>
-<li>2: Able to display post which you select post type.</li>
-<li>3: Able to include or exclude posts by post ids.</li>
-<li>4: Able to display posts full or excerpt.</li>
-<li>5. Able to set limit of posts for display.</li>
-<li>6: Able to hide post Title.</li>
-<li>7: Able to hide post Thumbnail.</li>
-<li>8: Able to hide post Content.</li>
-<li>9: Able to hide post Author.</li>
-<li>10: Able to hide post date.</li>
-<li>11: Able to hide post Time.</li>
-<li>12: Able to hide post Categories.</li>
-<li>13: Able to hide post Tags.</li>
-<li>14: Able to hide post Comment Reply Link.</li>
-<li>15: Able to hide post Edit Link.</li>
-<li>16: Able to display posts as selected order by name,id,etc....</li>
-<li>17: Able to display posts as selected order asc,desc.</li>
+<li> Through this plugin user can, Add the specific posts to display in sidebar.</li>
+<li> Able to display post which you select post type.</li>
+<li> Able to include or exclude posts by post ids.</li>
+<li> Able to display posts full or excerpt.</li>
+<li> Able to set limit of posts for display.</li>
+<li> Able to hide post Title.</li>
+<li> Able to hide post Thumbnail.</li>
+<li> Able to hide post Content.</li>
+<li> Able to hide post Author.</li>
+<li> Able to hide post date.</li>
+<li> Able to hide post Time.</li>
+<li> Able to hide post Categories.</li>
+<li> Able to hide post Tags.</li>
+<li> Able to hide post Comment Reply Link.</li>
+<li> Able to hide post Edit Link.</li>
+<li> Able to display posts as selected order by name,id,etc....</li>
+<li> Able to display posts as selected order asc,desc.</li>
 </ol>
 
 Image Widgets
 
 <ol>
-<li>1: Through this plugin user can, create own image widget to display in sidebar.</li>
-<li>2: Able to upload image by media uploader.</li>
-<li>3: Able to upload Multiple Images.</li>
-<li>4: Able to insert Alt Text.</li>
-<li>5: Able to Link Image.</li>
-<li>6: Able to insert Description.</li>
-<li>7: Able to select image target(open in same or another window).</li>
+<li> Through this plugin user can, create own image widget to display in sidebar.</li>
+<li> Able to upload image by media uploader.</li>
+<li> Able to upload Multiple Images.</li>
+<li> Able to insert Alt Text.</li>
+<li> Able to Link Image.</li>
+<li> Able to insert Description.</li>
+<li> Able to select image target(open in same or another window).</li>
 </ol>
 
 Text Widgets
 
 <ol>
-<li>1: Through this plugin user can, add text to display widget in sidebar.</li>
-<li>2: Able to add shortcode in editor.</li>
-<li>3: Wordpress editor is used.</li>
+<li> Through this plugin user can, add text to display widget in sidebar.</li>
+<li> Able to add shortcode in editor.</li>
+<li> Wordpress editor is used.</li>
 </ol>
 
 Link Widgets
 
 <ol>
-<li>1: Able to display links which you select link category.</li>
-<li>2: Able to show Link Image.</li>
-<li>3: Able to hide Link Rating.</li>
-<li>4: Able to hide Link Description.</li>
-<li>5: Able to display links as selected order by name,id,etc....</li>
-<li>6: Able to display links as selected order asc,desc.</li>
-<li>7: Able to set limit of links for display.</li>	
+<li> Able to display links which you select link category.</li>
+<li> Able to show Link Image.</li>
+<li> Able to hide Link Rating.</li>
+<li> Able to hide Link Description.</li>
+<li> Able to display links as selected order by name,id,etc....</li>
+<li> Able to display links as selected order asc,desc.</li>
+<li> Able to set limit of links for display.</li>	
 </ol>
 
 Comment Widgets
 
 <ol>
-<li>1: Through this plugin user can display comments in sidebar.</li>
-<li>2: Able to filter by post types.</li>
-<li>3: Able to include or exclude comments by post ids.</li>
-<li>4: Able to include or exclude comments by author ids.</li>
-<li>5: Able to include or exclude comments by comment ids.</li>
-<li>6: Able to display comments as selected order by Comment Agent, Comment Author, etc....</li>
-<li>7: Able to display links as selected order asc, desc.</li>
-<li>8: Able to set limit of comments for display.</li>
+<li> Through this plugin user can display comments in sidebar.</li>
+<li> Able to filter by post types.</li>
+<li> Able to include or exclude comments by post ids.</li>
+<li> Able to include or exclude comments by author ids.</li>
+<li> Able to include or exclude comments by comment ids.</li>
+<li> Able to display comments as selected order by Comment Agent, Comment Author, etc....</li>
+<li> Able to display links as selected order asc, desc.</li>
+<li> Able to set limit of comments for display.</li>
 </ol>
 
 Tweet Widgets
 
 <ol>
-<li>1: Add Consumer Key.</li>
-<li>2: Add Consumer Secret Key.</li>
-<li>3: Add Access Token Key.</li>
-<li>4: Add Access Token Secret Key.</li>
-<li>5: Add Screen Name.</li>
-<li>6: Able to set limit of tweets for display.</li>
-<li>7: Able to Include Retweets.</li>
-<li>8: Able to Exclude Replies.</li>
+<li> Add Consumer Key.</li>
+<li> Add Consumer Secret Key.</li>
+<li> Add Access Token Key.</li>
+<li> Add Access Token Secret Key.</li>
+<li> Add Screen Name.</li>
+<li> Able to set limit of tweets for display.</li>
+<li> Able to Include Retweets.</li>
+<li> Able to Exclude Replies.</li>
 </ol>
 
 Login Widgets
 
 <ol>
-<li>1: Able to hide First Name.</li>
-<li>2: Able to hide Last Name.</li>
-<li>3: Able to hide Nick Name.</li>
-<li>4: Able to hide Website.</li>
-<li>5: Able to hide About/Info.</li>
+<li> Able to hide First Name.</li>
+<li> Able to hide Last Name.</li>
+<li> Able to hide Nick Name.</li>
+<li> Able to hide Website.</li>
+<li>: Able to hide About/Info.</li>
 </ol>
 
 Register Widgets
 
 <ol>
-<li>1: Able to hide Lost Password Link.</li>
-<li>2: Able to hide Register Link.</li>
-<li>3: Able to hide Remember ME.</li>
-<li>4: Able to hide Widget for Logged-in users.</li>
-<li>5: Able to hide Avatar for Logged-in users.</li>
-<li>6: Able to set Login Redirect URL.</li>
-<li>7: Able to set Logout Redirect URL.</li>
+<li> Able to hide Lost Password Link.</li>
+<li> Able to hide Register Link.</li>
+<li> Able to hide Remember ME.</li>
+<li> Able to hide Widget for Logged-in users.</li>
+<li> Able to hide Avatar for Logged-in users.</li>
+<li> Able to set Login Redirect URL.</li>
+<li> Able to set Logout Redirect URL.</li>
 </ol>
 
 Widgets View Settings For Frontend
 
 <ol>
-<li>1: Able to change Title Font Color.</li>
-<li>2: Able to change Title Background Color.</li>
-<li>3: Able to change Content Background Color.</li>
-<li>4: Able to change Text Transform.</li>
-<li>5: Able to change Title Font Size.</li>
+<li> Able to change Title Font Color.</li>
+<li> Able to change Title Background Color.</li>
+<li> Able to change Content Background Color.</li>
+<li> Able to change Text Transform.</li>
+<li> Able to change Title Font Size.</li>
 </ol>
 
 Carousel Slider Settings For Image Widget
 
 <ol>
-<li>1: Able to set Slide Speed.</li>
-<li>2: Able to set Pagination Speed.</li>
-<li>3: Able to set Rewind Speed.</li>
-<li>4: Able to stop Auto Play Animation.</li>
-<li>5: Able to stop on Hover Animation.</li>
-<li>6: Able to hide Navigation.</li>
-<li>7: Able to stop Rewind Navigation.</li>
-<li>8: Able to hide Pagination.</li>
-<li>9: Able to hide Pagination Numbers.</li>
-<li>10: Able to stop Mouse Drag Animation.</li>
-<li>11: Able to stop on Hover Animation.</li>
-<li>12: Able to set Auto Height.</li>
+<li> Able to set Slide Speed.</li>
+<li> Able to set Pagination Speed.</li>
+<li> Able to set Rewind Speed.</li>
+<li> Able to stop Auto Play Animation.</li>
+<li> Able to stop on Hover Animation.</li>
+<li> Able to hide Navigation.</li>
+<li> Able to stop Rewind Navigation.</li>
+<li> Able to hide Pagination.</li>
+<li> Able to hide Pagination Numbers.</li>
+<li> Able to stop Mouse Drag Animation.</li>
+<li> Able to stop on Hover Animation.</li>
+<li> Able to set Auto Height.</li>
 </ol>
 
 = Notices =
