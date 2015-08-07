@@ -1,0 +1,51 @@
+/* Backend CSS */
+div.wpwb_container { width: 100%; float: left; border-bottom: 4px solid #3498DB; background: #FBFBFB; margin-top: 30px; }
+div.wpwb_header { width: 100%; background: #3498DB; border-bottom: 4px solid #097FAA; }
+div.wpwb_container h3 { margin: 0px; padding: 18px 15px 18px 15px; color: white; font-size: 22px; text-transform: uppercase; font-weight: normal; }
+div.wpwb_menu_container { width: 16%; float: left; height: auto; }
+div.wpwb_menu_container ul.wpwb_menu { width: 100%; margin: 0px; padding: 2px 0px; float: left; }
+div.wpwb_menu_container ul.wpwb_menu li.current { border-left: 3px solid #3498DB; background: #ffffff; -webkit-transition: all 0.4s ease-in-out; -moz-transition: all 0.4s ease-in-out; -o-transition: all 0.4s ease-in-out; -ms-transition: all 0.4s ease-in-out; transition: all 0.4s ease-in-out; }
+div.wpwb_menu_container ul.wpwb_menu li:hover { border-left: 3px solid #3498DB; background: #ffffff; -webkit-transition: all 0.4s ease-in-out; -moz-transition: all 0.4s ease-in-out; -o-transition: all 0.4s ease-in-out; -ms-transition: all 0.4s ease-in-out; transition: all 0.4s ease-in-out; }
+div.wpwb_menu_container ul.wpwb_menu li.wpwb_li { list-style: none; padding: 14px 0px 14px 15px; border-bottom: 1px solid #E8EBEC; margin: 0; margin-bottom: 2px; }
+div.wpwb_menu_container ul.wpwb_menu li.wpwb_li a { text-decoration:none; cursor: pointer; color: #596266; font-size: 13px; font-weight: bold; }
+div.wpwb_contant { width: 80%; height: auto; padding: 2.5% 1.9% 7%; float: left; border-left: 1px solid #E8EBEC; border-top: 0px solid #097FAA; background: #F7F8F8; }
+div.wpwb_contant div.wpwb_contant_header { float: left; width: 100%; border-bottom: 1px solid #E8EBEC; padding-bottom: 20px; margin-bottom: 30px; }
+div.wpwb_contant h2 { color: #3498DB; font-size: 30px; text-transform: capitalize; font-weight: normal; }
+div.wpwb_contant div.tablenav { height:auto; }
+div.wpwb_contant table.wpwb-form-table { width:100%; float:left; }
+div.wpwb_contant table.wpwb-form-table th { color: #596266; font-size: 13px; font-weight: bold; text-align:left; width: 20%; }
+div.wpwb_contant table.wpwb-form-table td { padding-bottom:18px; }
+div.wpwb_contant table.wp-list-table tr.no-items td { padding:15px 12px; }
+div.wpwb_contant table.wpwb-form-table td input[type=text], div.wpwb_contant table.wpwb-form-table td input[type=password] { width:75%; padding:10px; }
+div.wpwb_contant table.wpwb-form-table td input.image_upload_url { width:50%; }
+div.wpwb_contant input#search_id-search-input { padding:19px 5px; }
+div.wpwb_contant table.wpwb-form-table td select { width: 50%; height: 33px; }
+div.wpwb_contant table.wpwb-form-table td textarea.image_description { width: 75%; height: 100px; }
+div.wpwb_contant table.wpwb-form-table input.wpwb-button-primary { padding: 10px 25px; font-size: 17px; font-weight: bold; line-height: 1.571; border-radius: 6px; color: white; cursor: pointer; border: 0px solid #097FAA; background-color: #3498DB; }
+div.wpwb_contant div.wpwb_error { -webkit-box-shadow: rgba(0, 0, 0, 0.0976563) 0px 1px 1px 0px; background: white; border-left: 4px solid #DD3D36; padding: 2px 0px 2px 12px; float: left; width: 99%; margin-bottom: 25px; }
+div.wpwb_contant div.wpwb_update { -webkit-box-shadow: rgba(0, 0, 0, 0.0976563) 0px 1px 1px 0px; background: white; border-left: 4px solid #3498DB; padding: 2px 0px 2px 12px; float: left; width: 99%; margin-bottom: 25px; }
+div.wpwb_contant table.wp-list-table { padding: 5px 0px !important; margin: 15px 0 !important; border-top: 1px solid #F2F1EF !important; border-bottom: 1px solid #F2F1EF !important; box-shadow: none !important; }
+div.wpwb_contant div.tablenav select[name='action'], div.tablenav select[name='action2'] { height:40px; }
+div.wpwb_contant div.tablenav input.action, div.wpwb_contant input#search-submit { height: 38px; border: 1px solid #097FAA; border-radius: 0px; background: #3498DB; color: white; font-size: 15px; cursor: pointer; box-shadow: 0px 3px 0px #dededc; font-weight: bold; }
+div.wpwb_contant a.wpwb-upload-button-primary, div.wpwb_contant a.wpwb-add-more-button, div.wpwb_contant a.wpwb-remove-more-button { background-color: #3498DB; padding: 11px 19px; font-size: 15px; line-height: 1.471; border-radius: 6px; text-decoration:none; color: white; cursor: pointer; box-shadow: 0px 3px 0px #dededc; font-weight: bold; }
+div.wpwb_contant a.wpwb-add-more-button { background-color: #1ABC9C; }
+div.wpwb_contant a.wpwb-remove-more-button { background-color: #E74C3C; }
+div.wpwb_contant div.wpwb_upload_seprator { margin-bottom:10px; }
+div.wpwb_contant table.wpwb-form-table input.wpwb-button-primary:hover, div.wpwb_contant div.tablenav input.action:hover, div.wpwb_contant input#search-submit:hover, div.wpwb_contant input.wpwb-upload-button-primary:hover { background-color:#5dade2; }
+
+/* All Mobile Portrait size smaller than 768 (devices and browsers) */
+@media screen and (max-width: 768px) {
+div.wpwb_menu_container { width: 100%; float: left; height: auto; }
+div.wpwb_contant { width: 96%; height: auto; padding: 2%; float: left; background: none; }
+div.wpwb_contant h2 { font-size:23px; }
+div.wpwb_contant table.wpwb-form-table td input[type="text"], div.wpwb_contant table.wpwb-form-table td input[type="password"] { width: 100%; padding: 7px; }
+div.wpwb_contant table.wpwb-form-table td select { width: 100%; height: 33px; }
+div.wpwb_contant table.wpwb-form-table td textarea.image_description { width: 100%; height: 100px; }
+div.wpwb_contant table.wpwb-form-table td input[type="radio"], div.wpwb_contant table.wpwb-form-table td input[type="checkbox"] { height: 20px; width: 20px; }
+div.wpwb_contant table.wpwb-form-table td input.image_upload_url { width: 50%; }
+div.wpwb_contant p.search-box { float: left; position: relative; bottom: 0; width: 100%; height: 0px; margin-bottom: 20px; }
+div.wpwb_contant input#search_id-search-input { padding: 8px 5px; }
+div.wpwb_contant p.search-box input[name="s"] { height: auto; float: none; width: 70%; margin-bottom: 10px; vertical-align: middle; -webkit-appearance: none; }
+.widefat th input { margin: 0 0 0 4px; }
+.widefat tbody th.check-column input[type="checkbox"] { margin-left: 4px; }
+}
