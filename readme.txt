@@ -6,17 +6,12 @@ Tested up to : 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-
-WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login and Register is a highly customizable widget that displays the Categories, Posts, Images with slider, Text, Links, Comments on your sidebar.
-
-
 == Description ==
 
+A highly customizable widgets that displays the Categories, Posts, Images with slider, Text, Links, Comments on your sidebar.
 
-WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login and Register is a highly customizable widget that displays the Categories, Posts, Images with slider, Text, Links, Comments on your sidebar.
 
-
-== Category Widgets == 
+Category Widgets
 
 1. Through this plugin user can, Add the specific category or taxonomy to display in sidebar.
 2. Able to display category which you select taxonomy.
@@ -29,7 +24,7 @@ WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login an
 9. Able to display categories as selected order by name,id,etc....
 10. Able to display categories as selected order asc,desc.
 
-== Post Widgets == 
+Post Widgets
 
 1: Through this plugin user can, Add the specific posts to display in sidebar.
 2: Able to display post which you select post type.
@@ -49,7 +44,7 @@ WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login an
 16: Able to display posts as selected order by name,id,etc....
 17: Able to display posts as selected order asc,desc.
 
-== Image Widgets == 
+Image Widgets
 
 1: Through this plugin user can, create own image widget to display in sidebar.
 2: Able to upload image by media uploader.
@@ -59,13 +54,13 @@ WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login an
 6: Able to insert Description.
 7: Able to select image target(open in same or another window).
 
-== Text Widgets == 
+Text Widgets
 
 1: Through this plugin user can, add text to display widget in sidebar.
 2: Able to add shortcode in editor.
 3: Wordpress editor is used.
 
-== Link Widgets == 
+Link Widgets
 
 1: Able to display links which you select link category.
 2: Able to show Link Image.
@@ -75,7 +70,7 @@ WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login an
 6: Able to display links as selected order asc,desc.
 7: Able to set limit of links for display.	
 
-== Comment Widgets == 
+Comment Widgets
 
 1: Through this plugin user can display comments in sidebar.
 2: Able to filter by post types.
@@ -86,7 +81,7 @@ WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login an
 7: Able to display links as selected order asc, desc.
 8: Able to set limit of comments for display.
 
-== Tweet Widgets == 
+Tweet Widgets
 
 1: Add Consumer Key.
 2: Add Consumer Secret Key.
@@ -97,7 +92,7 @@ WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login an
 7: Able to Include Retweets.
 8: Able to Exclude Replies.
 
-== Login Widgets == 
+Login Widgets
 
 1: Able to hide First Name.
 2: Able to hide Last Name.
@@ -105,7 +100,7 @@ WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login an
 4: Able to hide Website.
 5: Able to hide About/Info.
 
-== Register Widgets == 
+Register Widgets
 
 1: Able to hide Lost Password Link.
 2: Able to hide Register Link.
@@ -115,7 +110,7 @@ WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login an
 6: Able to set Login Redirect URL.
 7: Able to set Logout Redirect URL.
 
-== Widgets View Settings For Frontend == 
+Widgets View Settings For Frontend
 
 1: Able to change Title Font Color.
 2: Able to change Title Background Color.
@@ -123,7 +118,7 @@ WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login an
 4: Able to change Text Transform.
 5: Able to change Title Font Size.
 
-== Carousel Slider Settings For Image Widget == 
+Carousel Slider Settings For Image Widget
 
 1: Able to set Slide Speed.
 2: Able to set Pagination Speed.
@@ -148,7 +143,7 @@ WordPress Categories, Posts, Images with slider, Text, Links, Comments, Login an
 
 1. Download the plugin and extract its contents.
 2. Upload the `wp-widget-bundle` folder to the `/wp-content/plugins/` directory.
-3. Activate **WP widget bundle** plugin through the "Plugins" menu in WordPress.
+3. Activate **WP Widget Bundle** plugin through the "Plugins" menu in WordPress.
 4. After activating check the side menu -> "WP Widget Bundle".
 5. In your admin console, go to Appearance > Widgets, drag the "WP Category Widget", "WP Post Widget", "WP Image Widget", "WP Text Widget", "WP Link Widget", "WP Comment Widget", "WP Tweet Widget", "WP Login Registration Widget" to wherever you want it to be and click on Save.
 
