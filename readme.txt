@@ -217,18 +217,18 @@ That's it!
 
 == Screenshots ==
 
-2. Post widget display on the frontside of wordpress
-3. Comments widget display on the frontside of wordpress
-4. Category widget display on the frontside of wordpress
-5. Link widget display on the frontside of wordpress
-6. Image widget display on the frontside of wordpress
-7. Text widget display on the frontside of wordpress
-8. Tweets widget display on the frontside of wordpress
-9. Login widget display on the frontside of wordpress
-10. Register widget display on the frontside of wordpress
-11. Appearence widget menu screen
-12. Plugin admin screen
-13. After logged-in sidebar widget display user profile
+1. Post widget display on the frontside of wordpress
+2. Comments widget display on the frontside of wordpress
+3. Category widget display on the frontside of wordpress
+4. Link widget display on the frontside of wordpress
+5. Image widget display on the frontside of wordpress
+6. Text widget display on the frontside of wordpress
+7. Tweets widget display on the frontside of wordpress
+8. Login widget display on the frontside of wordpress
+9. Register widget display on the frontside of wordpress
+10. Appearence widget menu screen
+11. Plugin admin screen
+12. After logged-in sidebar widget display user profile
 
 
 == Changelog ==
