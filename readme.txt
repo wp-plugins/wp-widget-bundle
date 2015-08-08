@@ -2,7 +2,7 @@
 Contributors: Devnath verma
 Tags: widgets, category, post, image, text, link, comment, tweet, login, register, slider, widget bundle
 Requires at least: 3.5
-Tested up to: 4.2.2
+Tested up to: 4.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-0.html
 
