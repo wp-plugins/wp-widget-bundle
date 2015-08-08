@@ -191,7 +191,7 @@ This widget provides that allows you to display **Register** in any widgetized s
 	
 ** Anyone can write the CSS for my plugin, I will added it. 
 
-<strong>Tags:</strong> 
+<p><strong>Tags:</strong></p>
 <a href="https://wordpress.org/plugins/tags/widgets" rel="tag">widgets</a>,<a href="https://wordpress.org/plugins/tags/category" rel="tag">category</a>, 
 <a href="https://wordpress.org/plugins/tags/post" rel="tag">post</a>, 
 <a href="https://wordpress.org/plugins/tags/image" rel="tag">image</a>, 
