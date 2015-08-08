@@ -1,6 +1,6 @@
 === WP Widget Bundle ===
 Contributors: Devnath verma
-Tags: widgets, category, post, image, text, link, comment, tweet, login, register, slider
+Tags: widgets, category, post, image, text, link, comment, tweet, login, register, slider, widget bundle
 Requires at least: 3.1
 Tested up to: 4.2.2
 License: GPLv2 or later
@@ -196,7 +196,7 @@ This widget provides that allows you to display **Register** in any widgetized s
 
 = Minimum Requirements =
 
-* WordPress 3.8 or greater
+* WordPress 3.1 or greater
 * PHP version 5.2.4 or greater
 * MySQL version 5.0 or greater
 
