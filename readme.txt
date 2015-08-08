@@ -10,15 +10,16 @@ License URI: http://www.gnu.org/licenses/gpl-0.html
 
 A collection of powerful WordPress Widgets that will help to super charge your blog. Each of the widgets in this bundle has been built in an effort to provide functionality that is greatly lacking with the default WordPress widgets.
 
-<ul>
-<li> Category widget </li>
-<li> Post widget </li>
-<li> Image widget </li>
-<li> Text widget </li>
-<li> Link widget </li>
-<li> Comment widget </li>
-<li> Tweets widget </li>
-</ul>
+= Features =
+
+* Category widgets
+* Post widgets 
+* Image widgets
+* Text widgets
+* Link widgets
+* Comment widgets
+* Tweets widgets
+* Fully Responsive
 
 <p><strong>Category Widgets</strong></p>
 
@@ -192,6 +193,16 @@ This widget provides that allows you to display **Register** in any widgetized s
 ** Anyone can write the CSS for my plugin, I will added it. 
 
 == Installation ==
+
+= Minimum Requirements =
+
+* WordPress 3.8 or greater
+* PHP version 5.2.4 or greater
+* MySQL version 5.0 or greater
+
+**This section describes how to install the plugin and get it working**
+
+= Manual installation =
 
 1. Download the plugin and extract its contents.
 2. Upload the `wp-widget-bundle` folder to the `/wp-content/plugins/` directory.
