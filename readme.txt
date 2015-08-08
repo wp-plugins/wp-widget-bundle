@@ -217,7 +217,6 @@ That's it!
 
 == Screenshots ==
 
-1. After logged-in sidebar widget display user profile
 2. Post widget display on the frontside of wordpress
 3. Comments widget display on the frontside of wordpress
 4. Category widget display on the frontside of wordpress
@@ -229,6 +228,7 @@ That's it!
 10. Register widget display on the frontside of wordpress
 11. Appearence widget menu screen
 12. Plugin admin screen
+13. After logged-in sidebar widget display user profile
 
 
 == Changelog ==
