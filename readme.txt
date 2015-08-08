@@ -212,9 +212,6 @@ This widget provides that allows you to display **Register** in any widgetized s
 
 That's it!
 
-== Frequently Asked Questions ==
-
-
 == Screenshots ==
 
 1. Post widget display on the frontside of wordpress
