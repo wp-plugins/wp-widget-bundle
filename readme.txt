@@ -227,6 +227,8 @@ That's it!
 8. Tweets widget display on the frontside of wordpress
 9. Login widget display on the frontside of wordpress
 10. Register widget display on the frontside of wordpress
+11. Appearence widget menu screen
+12. Plugin admin screen
 
 
 == Changelog ==
