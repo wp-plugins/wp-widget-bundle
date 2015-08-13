@@ -12,13 +12,15 @@ A collection of powerful WordPress Widgets that will help to super charge your b
 
 = Features =
 
-* Category widgets
-* Post widgets 
-* Image widgets
-* Text widgets
-* Link widgets
-* Comment widgets
-* Tweets widgets
+* Category widget
+* Post widget 
+* Image widget
+* Text widget
+* Link widget
+* Comment widget
+* Tweets widget
+* Login widget
+* Register widget
 * Fully Responsive
 
 <p><strong>Category Widgets</strong></p>
